@@ -20,7 +20,7 @@ Analyzed a dataset using different machine learning models, such as the *Random 
 
 ## Summary
 
-Overall the results were the same in the optimized deep learning model as the previous un-optimized model, at about 72% predictive accuracy.
+Overall the results were the same in the optimized deep learning model as the previous un-optimized model, at about 73% predictive accuracy.
 
 ![results](https://github.com/Kyle2Miles93/Neural_Network_Charity_Analysis/blob/main/Resources/Results_predictive%20_accuracy.png)
 
