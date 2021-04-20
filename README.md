@@ -6,13 +6,13 @@ Analyzed a dataset using different machine learning models, such as the *Random 
 
 ## Results
 
-* *Data Preprocessing
+* Data Preprocessing
 
   - The target variables for the models were the IS_SUCCESSFUL feature of the dataset. This was what I wanted to predict.
   - The features for my model were CLASSIFICATION and APPLICATION_TYPE, used to predict credit security.
   - Removed STATUS, INCOME_AMOUNT, and SPECIAL_CONSIDERATIONS features from the dataset prior to running the ML model because these weren't needed for the analysis.
 
-* *Compiling, Training, and Evaluating the Model
+* Compiling, Training, and Evaluating the Model
 
   - Chose three hidden layers with 80 neurons in the first layer, 50 in the second, and 20 in the third.
   - I was not quite able to hit the target performance percentage of 75%
